@@ -1,8 +1,10 @@
+streamlit
 langchain
-langchain_pinecone
-langchain_community
-pinecone
+langchain-community
+langchain-core
+openai
+python-dotenv
+torch
+faiss-cpu
 sentence-transformers
 pypdf
-streamlit
-openai
